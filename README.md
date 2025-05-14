@@ -146,8 +146,7 @@ We encourage you to participate in the course **discussion forums**:
 - Find answers
 - Connect with peers and support staff
 
-Feel free to reach out with any queries as you progress through the course.
+## Obtained Coursera Certificate
 
----
+![image](https://github.com/user-attachments/assets/1c219006-1f03-4c91-958f-8dd66c5178a2)
 
-**Best of luck in your data science journey!** We are excited to have you on board!
